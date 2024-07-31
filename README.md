@@ -40,6 +40,6 @@ You can build the documentation with the following command
 poetry run make html
 ```
 
-### License
+## License
 
 The source files are distributed under the MIT license.
