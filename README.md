@@ -1,8 +1,10 @@
 # A Template Repository for a Portfolio Website using Sphinx and GitHub Pages
 
-Hi stranger! I've created this repository for my article on Medium, click [here](https://github.com/your-template-repository) to read it.
+Hi stranger! I've created this repository for my article on Medium, click [here](https://medium.com/@bencebalogh_33809/how-to-create-a-killer-portfolio-using-sphinx-and-github-pages-18a5c4f5702e) to read it.
 
-## What the repository contains
+You can also check out the repository I use to build my own portfolio site [here](https://github.com/BALOGHBence/portfolio). Use it to get ideas or as a kitchen sink.
+
+## Contents
 
 * All the boilerplate code to create your own portfolio page,
   including a YAML file that sets up a workflow using GitHub Actions. All you have to care about is to fill up the repo with the contents of your portfolio.
